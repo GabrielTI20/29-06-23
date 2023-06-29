@@ -1,0 +1,25 @@
+.menu-principal ul {
+    list-style: none;
+    background-color: rgba(255, 255, 255, 0.353);
+    text-align: end;
+    margin-top: 0;
+    
+}
+
+.menu-principal ul li {
+
+    display: inline-block;
+    margin-right: 30px;
+    color: black; 
+    font-size: 30px; /*Configura tamanho da letra*/
+
+
+}
+
+body {
+    background: url(./img/gatinho.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+
+}
