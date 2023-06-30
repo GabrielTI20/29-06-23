@@ -1,0 +1,29 @@
+body {
+
+    background: url(./img/gatinho.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh ;
+}
+
+table{
+    align-items: center;
+    border: 3px solid rgb(248, 245, 245);
+    font-size: 30px;
+    width: 800px;
+    height: 100px;
+}
+tr th{
+    background-color: white;
+    border: 1px solid rgb(255, 255, 255);
+    
+}
+tr td{
+    background-color: rgba(141, 138, 138, 0.445);
+    color: white;
+}
